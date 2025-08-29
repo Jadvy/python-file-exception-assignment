@@ -1,0 +1,6 @@
+Hello, World!
+This is a sample file.
+Each line will be prefixed with its line number.
+Empty lines are kept.
+
+End.
